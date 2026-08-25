@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 80" width="400" height="80" role="img" aria-label="Microcodery">
+  <!-- Mark: 80x80, sits at 0,0. Do not edit the path. -->
+  <g transform="translate(-8.6486,-8.6486) scale(0.54054)">
+    <path fill="#FFFFFF" fill-rule="evenodd" d="M16 16 H140 L164 40 V164 H16 Z M39 37 h10 v22 h-10 Z M127 37 h10 v22 h-10 Z M39 65 h10 v22 h-10 Z M61 65 h10 v22 h-10 Z M105 65 h10 v22 h-10 Z M127 65 h10 v22 h-10 Z M39 93 h10 v22 h-10 Z M83 93 h10 v22 h-10 Z M127 93 h10 v22 h-10 Z M39 121 h10 v22 h-10 Z M127 121 h10 v22 h-10 Z"/>
+  </g>
+
+  <!-- Wordmark. font-family is a PLACEHOLDER - swap it for your chosen face.
+       x=104 is the mark width (80) plus 24 of clear space (0.3x mark height).
+       y=56 optically centres the cap height against the mark; adjust if your
+       face has an unusual cap height.
+       After changing the font, measure the rendered text width and set the
+       viewBox width to (104 + text width). Trailing space will throw off
+       centring in layouts, and anything past the viewBox gets clipped. -->
+  <text x="104" y="56"
+        font-family="Inter, 'Helvetica Neue', Arial, sans-serif"
+        font-size="44" font-weight="600" letter-spacing="-0.5"
+        fill="#FFFFFF">Microcodery</text>
+</svg>

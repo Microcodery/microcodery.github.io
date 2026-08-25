@@ -56,6 +56,13 @@ a {
   margin-bottom: 4rem;
 }
 
+.mark {
+  display: block;
+  margin: 0 auto 1.25rem;
+  width: 96px;
+  height: 96px;
+}
+
 .hero h1 {
   margin: 0;
   font-size: 3rem;
@@ -157,6 +164,11 @@ footer p {
 @media (max-width: 480px) {
   main {
     padding-top: 3rem;
+  }
+
+  .mark {
+    width: 76px;
+    height: 76px;
   }
 
   .hero h1 {

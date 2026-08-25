@@ -1,12 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180">
   <style>
-    rect { fill: #1a1a1a; }
-    path { stroke: #fafafa; }
+    path { fill: #1a1a1a; }
     @media (prefers-color-scheme: dark) {
-      rect { fill: #e6edf3; }
-      path { stroke: #0d1117; }
+      path { fill: #e6edf3; }
     }
   </style>
-  <rect width="100" height="100" rx="20"/>
-  <path d="M24 74V28l26 30 26-30v46" fill="none" stroke-width="11" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Copied from brand/mark.svg; keep in sync. -->
+  <path fill-rule="evenodd" d="M16 16 H140 L164 40 V164 H16 Z M39 37 h10 v22 h-10 Z M127 37 h10 v22 h-10 Z M39 65 h10 v22 h-10 Z M61 65 h10 v22 h-10 Z M105 65 h10 v22 h-10 Z M127 65 h10 v22 h-10 Z M39 93 h10 v22 h-10 Z M83 93 h10 v22 h-10 Z M127 93 h10 v22 h-10 Z M39 121 h10 v22 h-10 Z M127 121 h10 v22 h-10 Z"/>
 </svg>
