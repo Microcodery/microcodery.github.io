@@ -6,6 +6,8 @@
   --border: #dcdcdc;
   --card: #ffffff;
   --accent: #b3380a;
+  --soon-bg: #fff3cd;
+  --soon-fg: #6b4e00;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -16,6 +18,8 @@
     --border: #2a3038;
     --card: #161b22;
     --accent: #f59e6b;
+    --soon-bg: #3a2f0a;
+    --soon-fg: #f3d27a;
   }
 }
 
@@ -119,6 +123,20 @@ a {
   margin: 0;
   font-weight: 600;
   font-size: 1.1rem;
+}
+
+.status {
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  padding: 0.2rem 0.6rem;
+  border-radius: 999px;
+}
+
+.status-soon {
+  background: var(--soon-bg);
+  color: var(--soon-fg);
 }
 
 footer {
